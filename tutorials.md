@@ -82,4 +82,14 @@ was assigned "tryGit" challenges
 Review- Ui of this website was not up to the mark, as if i had any doubt i had to repoen and re follow all the steps to get through all..
 also in my last try i have submitted a totally diffrent thing but some how / someone managed to dlt my whole data so had to do it all again!
 
+HI, My name is Rajani. I was assigned to learn git branching in online which i felt very useful and clear. The learning process is simple and user friendly. once you open the webpage it will guide you to leart the commands step by step. there are two levels main and remote in main level we get to learn about five types of commands
 
+-introductory to brancing, merging and rebase with the online demonstrations.
+-ramping work
+-moving work around
+-a mixed bag
+advanced topics with examples 
+In remote level you get to learn about 
+-git remotes
+-advanced git remotes 
+you will get to learn all the topics by completing the levels. Finally i would like to conlude my review by recommending this tutorial which is very helpful for beginners.
